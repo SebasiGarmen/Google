@@ -1,0 +1,94 @@
+.barra_arriba{
+
+  margin-left: 850px;
+  margin-right: 0px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+#barrita{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+}
+
+h1{
+  font-family: verdana;
+  font-size: 12px;
+  font-weight: 100;
+  display: inline-block;
+  margin-right: 12px;
+  color: rgb(64, 64, 64);
+  vertical-align: middle;
+
+  }
+
+h2{
+  margin-left: 440px;
+  margin-top: 135px;
+  font-size: 5em;
+  font-weight: 400;
+  color: rgb(66, 133, 244);
+  font-family: arial;
+  top: -50px;
+  margin-bottom: -70px;
+  margin-right: 500px;
+  vertical-align: middle;
+}
+
+.buscador{
+  margin-left: 313px;
+  margin-right: 390px;
+  margin-top: 95px;
+  vertical-align: middle;
+}
+
+h3{
+  font-weight:700;
+  color: rgb(117, 117, 129);
+  font-size: 12px;
+  font-family: verdana;
+}
+
+.botones{
+  display: inline-block;
+  margin-left: 390px;
+  margin-right: 40px;
+  margin-top: 25px;
+}
+
+#botones{
+
+  margin-left: 30px;
+  margin-right: 0px;
+  position: relative;
+  float: left;
+background-color: rgb(244, 244, 244);
+}
+
+.texto_bajo{
+  text-align: center;
+  position: relative;
+  top: 15px;
+}
+
+#letras_bajas{
+  color: rgb(34, 34, 34);
+  font-family: helvetica,sans-serif;
+  font-size: 13px;
+  font-weight: 100;
+}
+
+/*.barra_abajo{
+  border-style: dashed;
+  position: relative;
+  background-color: grey;
+  top: 120px;
+}*/
+
+input{
+  height: 30px;
+  width: 500px;
+}
